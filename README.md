@@ -14,5 +14,5 @@ Repo for our first Hack Day in December 2019.
  * NewCoders
  * Angry Buddha
  * HackPac
- * Octa Cat Adventures
+ * Octa Cat Adventures : https://github.com/sauravsomxz/Rock-Paper-Scissor
 
