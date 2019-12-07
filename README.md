@@ -1,9 +1,46 @@
 # solid-doodle
 Repo for our first Hack Day in December 2019.
 
+# Team / Hacker Names
 
-# Team / Hacker Name
  * DevCPune
+ 
+ 
+ * The S.C.R.I.P.T Group
+ 
+ 
+ * Script
+ 
+ 
+ * XeonAJ
+ 
+ 
+ * NewCoders
+ 
+ 
+ * Angry Buddha
+ 
+ 
+ * HackPac
+ 
+ 
+ * Octa Cat Adventures : https://github.com/sauravsomxz/Rock-Paper-Scissor
+ 
+ 
+ * Vivek Singh
+ 
+ 
+ * Evenger
+ 
+ =======
+ 
+ Team Name: Green Team
+  Team Members:
+          Adhiraaj Ravinder
+          Bhuvanesh Hingal
+          Vivek Singh
+   
+ Project Link: https://github.com/BhuvaneshHingal/MLH-2019/blob/master/GREEN%20TEAM.rar
 
 =======
 Team Name: Script
@@ -30,3 +67,4 @@ Team Name: GoldDi99er$
              
 Project Link:
 		          https://github.com/PranshuTople/GoldDigger
+=======
