@@ -1,7 +1,10 @@
 # solid-doodle
 Repo for our first Hack Day in December 2019.
 
-# Team / Hacker Name
+# Team / Hacker Names
+
+ * DevCPune
+ 
  
  * The S.C.R.I.P.T Group
  
@@ -19,6 +22,9 @@ Repo for our first Hack Day in December 2019.
  
  
  * HackPac
+ 
+ 
+ * Octa Cat Adventures : https://github.com/sauravsomxz/Rock-Paper-Scissor
  
  
  * Vivek Singh
