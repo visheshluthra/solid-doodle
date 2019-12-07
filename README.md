@@ -6,3 +6,4 @@ Repo for our first Hack Day in December 2019.
  * The S.C.R.I.P.T Group
  * Script
  * XeonAJ
+ * NewCoders
