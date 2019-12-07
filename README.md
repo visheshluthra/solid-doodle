@@ -8,3 +8,4 @@ Repo for our first Hack Day in December 2019.
  * XeonAJ
  * NewCoders
  * Angry Buddha
+ * HackPac
