@@ -30,9 +30,12 @@ Repo for our first Hack Day in December 2019.
  * Vivek Singh
  
  
+ * Parikshit
+ 
+ 
  * Evenger
  
- =======
+=======
  
  Team Name: Green Team
   Team Members:
@@ -43,6 +46,7 @@ Repo for our first Hack Day in December 2019.
  Project Link: https://github.com/BhuvaneshHingal/MLH-2019/blob/master/GREEN%20TEAM.rar
 
 =======
+
 Team Name: Script
  Team Members: 
             Alok Bhawankar
@@ -56,6 +60,7 @@ Project Link:
 		          https://github.com/aniket-spidey/MLH
 
 =======
+
 Team Name: GoldDi99er$
  Team Members: 
             Pranshu Tople
@@ -67,4 +72,5 @@ Team Name: GoldDi99er$
              
 Project Link:
 		          https://github.com/PranshuTople/GoldDigger
+              
 =======
