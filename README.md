@@ -36,6 +36,9 @@ Repo for our first Hack Day in December 2019.
  * Evenger
 
 
+ * Vishesh Luthra
+
+
  * Hacker Name: Lucifer †  |  Project: [**FreeEye**: A free video calling application without CAPEX and maintainance using agora.io](https://github.com/amannirala13/FreeEye)
  
 =======
@@ -49,6 +52,18 @@ Repo for our first Hack Day in December 2019.
  Project Link: https://github.com/BhuvaneshHingal/MLH-2019/blob/master/GREEN%20TEAM.rar
 
 =======
+
+# Team name :HackPac
+<br />Team mates: HackPac
+<br />> [Vishesh Luthra](http://guthub.com/visheshluthra)
+<br />> [Disha Patel](http://guthub.com/disha110)
+<br />> [Nandini Garg](http://guthub.com/nandinigarg21)
+
+<br /> Problem statement :Amrita's mother has stricty asked her not to waste any paper. Her BFF Natasha is visiting her after a long time. Can you help Amrita with a TIC TAC TOE app?
+
+<br /> Solution> This is a digitised version of a classic game of TIC TAC TOE. Use of this app will reduce the wastage of paper and make it easier for the user to keep a score.
+
+<br />Project link: https://github.com/visheshluthra/improved-eureka
 
 **Angry Buddha**
  
