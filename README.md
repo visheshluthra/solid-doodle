@@ -21,7 +21,7 @@ Repo for our first Hack Day in December 2019.
  * Angry Buddha
  
  
- * HackPac
+ * HackPac ( Vishesh, Disha, Nandini )
  
  
  * Octa Cat Adventures : https://github.com/sauravsomxz/Rock-Paper-Scissor
@@ -34,9 +34,6 @@ Repo for our first Hack Day in December 2019.
  
  
  * Evenger
-
-
- * Vishesh Luthra
 
 
  * Hacker Name: Lucifer †  |  Project: [**FreeEye**: A free video calling application without CAPEX and maintainance using agora.io](https://github.com/amannirala13/FreeEye)
